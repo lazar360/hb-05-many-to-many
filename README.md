@@ -1,4 +1,5 @@
 # hb-05-many-to-many
+
 @Entity
 @Table(name ="course")
 public class Course {
