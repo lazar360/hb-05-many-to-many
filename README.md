@@ -8,7 +8,6 @@ public class Course {
 			CascadeType.PERSIST, CascadeType.REFRESH})
 	@JoinColumn(name="instructor_id")
 	private Instructor instructor;
-	
 	...}
   
   
